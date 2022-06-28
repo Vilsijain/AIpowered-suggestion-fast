@@ -1,1 +1,1 @@
-# AIpowered-suggestion-fast
+# All-one
