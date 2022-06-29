@@ -7,7 +7,6 @@ from utils import (
         generate_appended_strings,
         generate_prepended_strings,
         merge_words,
-        generate_top_10,
 )
 
 app = Flask(__name__)
